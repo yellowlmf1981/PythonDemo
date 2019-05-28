@@ -1,1 +1,2 @@
 import machine
+import dht
